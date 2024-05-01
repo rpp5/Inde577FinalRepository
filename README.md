@@ -7,15 +7,15 @@ We first start our exploration of Machine Learning models in Supervised Learning
 
 This project was really intereresting and I learned a lot about machine learning algorithms and the pros and cons of each. Below is a table of contents of this repository. Hope you enjoy the tour!
 
-### Table of Contents
-Chapter 1: Supervised Learning\
-1.1. The Perceptron\ 
-1.2. Gradient Descent and Linear Regression
-1.3. Logisitc Regression 
-1.4. Neural Networks
-1.5. K-Nearest Neighbors
-1.6. Decision Trees
-1.7. Ensemble Models
-Chapter 2: Unsupervised Learning
-2.1. K-Means
-2.2. PCA
+## Table of Contents
+- Chapter 1: Supervised Learning
+  - 1.1. The Perceptron
+  - 1.2. Gradient Descent and Linear Regression 
+  - 1.3. Logisitc Regression
+  - 1.4. Neural Networks
+  - 1.5. K-Nearest Neighbors
+  - 1.6. Decision Trees
+  - 1.7. Ensemble Models
+- Chapter 2: Unsupervised Learning
+  - 2.1. K-Means and Clustering
+  - 2.2. PCA
