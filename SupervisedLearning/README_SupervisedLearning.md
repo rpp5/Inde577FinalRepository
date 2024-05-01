@@ -18,7 +18,7 @@ Essentially, we are given existing data ($x_1$, $y_1$),...,($x_N$, $y_N$) which 
 
 In order for our Learning Algorithm $\mathscr{A}$ to pick an optimal model from our hypothesis test, we develop a function that measures how well a hypothesized model $\mathscr{g}$ fits our data. The most natural way to do this is through a loss function: 
 
-$ L = \eta \sum_{i=1}^{N} (g(x^{(i)}) - f(x^{(i)}))^2 $
+$L = \eta \sum_{i=1}^{N} (g(x^{(i)}) - f(x^{(i)}))^2$
 
 where N is the number of samples and $\eta$ is a positive scalar or a function of N. Our best fit model $\mathscr{g}$ would be when our loss function $\mathscr{L}$ is minimized.
 
